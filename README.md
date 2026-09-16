@@ -63,7 +63,7 @@ The table below lists leading commercial last-mile delivery software, ranked by 
 
 ## 💻 Open-Source GitHub Projects
 
-Below is a list of top open-source vehicle routing engines, dispatch hubs, and logistics building blocks sorted by GitHub star count.
+Below is a list of top open-source vehicle routing engines, dispatch hubs, and logistics building blocks sorted by GitHub Stars_Count.
 
 *   [![Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) **[Google OR-Tools](https://github.com/google/or-tools)**  
     Fast and portable software suite for solving vehicle routing problems (VRP, TSP, VRPTW), linear programming, and constraint optimization across Python, C++, Java, and C#.
@@ -112,7 +112,7 @@ Contributions are highly welcome! Please follow these simple steps:
 
 1. Fork this repository.
 2. Add or update entries in `README.md` maintaining table/markdown formatting.
-3. Include: project name, official website/repo link, key capabilities, and starting pricing/star count.
+3. Include: project name, official website/repo link, key capabilities, and starting pricing/Stars_Count.
 4. Submit a Pull Request with a clear summary of changes.
 
 ---
